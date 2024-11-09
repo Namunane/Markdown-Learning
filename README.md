@@ -32,3 +32,4 @@ _Italicize_
 ## Tables
 | Name    | Role  | Department  |
 |---------|-------|-------------|
+|Enock Namunane|Student|Biosystems Engineering|
