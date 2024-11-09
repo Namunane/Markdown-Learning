@@ -3,6 +3,7 @@
 
 ## Tutorial
 ### Level one heading
+## Bold
 ** This is bolded **
 This is not bolded
 
