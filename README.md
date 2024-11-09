@@ -28,3 +28,7 @@ _Italicize_
 
 ## Link
 [Arewa Data Science] : (https://medium.com/@enocknamunane)
+
+## Tables
+| Name    | Role  | Department  |
+|---------|-------|-------------|
