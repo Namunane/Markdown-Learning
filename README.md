@@ -4,7 +4,8 @@
 ## Tutorial
 ### Level one heading
 ## Bold
-** This is bolded **
+**This is bolded**
+
 This is not bolded
 
 _Italicize_
